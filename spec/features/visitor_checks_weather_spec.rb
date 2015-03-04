@@ -16,5 +16,4 @@ feature 'Visitor checks weather' do
 
   end
 
-
   end
